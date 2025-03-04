@@ -1,0 +1,1 @@
+While thinking of ideas for automation testing, I realized that when I clicked on the S25 Ultra product in a manual test I performed by chance, I realized that the product was not found, so I automated this test.
