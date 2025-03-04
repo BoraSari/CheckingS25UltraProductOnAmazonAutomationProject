@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonSuite" parallel="tests" thread-count="2">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2"></listener>
+    </listeners>
+    <test name="AmazonBrowserTestWithGoogle">
+        <parameter name="browser" value="google"></parameter>
+        <classes>
+            <class name="AmazonTests.AmazonS25UltraCheckingTest"></class>
+        </classes>
+    </test>
+</suite>
