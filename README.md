@@ -1,1 +1,1 @@
-While brainstorming automation testing ideas, I discovered an issue during a manual test by chance. When I clicked on the S25 Ultra product, I noticed that the product was not found. This led me to automate the test to verify the issue
+While brainstorming automation testing ideas, I discovered an issue during a manual test by chance. When I clicked on the S25 Ultra product, I noticed that the product was not found. This led me to automate the test to verify the issue.
