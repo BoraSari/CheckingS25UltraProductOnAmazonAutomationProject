@@ -162,7 +162,7 @@ Açıklama: Amazon web sitesinde belirli bir ürün (örn: "S25 Ultra") arama s�
 Akış: Amazon ana sayfasına gider, ürün adını arama çubuğuna girer, aramayı gerçekleştirir ve beklenen sonucu (örn: ürün detayları görüntülenir veya ürünün bulunamadığını belirten bir hata mesajı) doğrular.
 
 Ekran Görüntüleri/GIF'ler
-![image](https://github.com/user-attachments/assets/e9b78d33-f80c-4036-9404-f0798f88979c)
+![image](https://github.com/user-attachments/assets/49df6b99-5f41-4277-bfd3-4d6d5d5b87b2)
 
 
 Lisans
